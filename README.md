@@ -1,8 +1,21 @@
-Md. Iftiar Hossain<br>
-Expert in WordPress Development || React || Node || MongoDB
+Is your website a digital business card, or is it a sales machine?
 
-I am a proficient WordPress website designer with 2+ years of experience. Has proven expertise in easing development like Website Creation, Including design, plugins & implementation. Expert in leveraging HTML, CSS, PHP, JavaScript, React, Node js, Express js, MongoDB programming languages to drive innovation, build, test, and deployment efforts for custom website solutions.<br>
+Most WordPress sites are slow, outdated, and lose money because they aren't optimized for the modern web. If your site takes more than 3 seconds to load, you’ve already lost 40% of your potential customers.
 
-I am skilled in creating custom themes & plugin development and implementing new website features. Experienced in customizing new websites with elementor page builder & woocommerce.
+That’s where I come in.
 
-I have an adequate experience in successful design projects for various company & agency clients. With my work, I provide my best to meet my clients' satisfaction & deliver within expected timelines.
+I don’t just "build websites." I build high-performance digital infrastructure designed to grow your business. Whether you need a high-converting landing page, a complex WooCommerce store, or an automated booking system, I ensure it is lightning-fast, SEO-ready, and mobile-perfect.
+
+What I bring to your project:
+
+✔Speed Optimization: Guaranteed 90+ Score on Google PageSpeed Insights.
+✔Conversion-Focused Design: Landing pages that turn "browsers" into "buyers."
+✔E-commerce Excellence: Scalable WooCommerce stores with smooth checkout flows.
+✔Technical SEO: Clean code and schema markup so Google actually finds you.
+✔Automation: Booking and service systems that save you 10+ hours of admin work weekly.
+
+Whether you need a new website or want to improve an existing one, my goal is simple:
+
+Help your website bring real business results, not just traffic.
+
+📩 If you want a fast, professional WordPress website that actually works for your business, feel free to send me a message.
