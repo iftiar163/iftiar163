@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=2E9EF7&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=iftiar163&label=Profile%20Views&color=2E9EF7&style=flat" alt="Profile views" />
   <img src="https://img.shields.io/badge/Based%20in-Bangladesh-006a4e?style=flat&logo=googlemaps&logoColor=white" alt="Location" />
   <img src="https://img.shields.io/badge/Status-Available%20for%20Freelance%20Work-brightgreen?style=flat" alt="Availability" />
 </p>
@@ -64,12 +64,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=iftiar163&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iftiar163&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iftiar163&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
